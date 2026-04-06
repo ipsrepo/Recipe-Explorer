@@ -148,3 +148,5 @@ TheMealDB (no API key required)
 
 ---
 
+Made with ❤️
+
