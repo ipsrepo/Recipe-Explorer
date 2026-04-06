@@ -46,20 +46,28 @@
 ## 🚀 Setup & Installation
 
 1. Extract and navigate:
+```
    unzip recipe-explorer.zip  
    cd recipe-explorer
+```
 
 2. Install:
+```
    npm install
+```
 
 3. Start:
+```
    npx expo start
+```
 
 4. Run:
+```
   - Scan QR with Expo Go
   - Press a → Android
   - Press i → iOS
   - Press w → Web
+```
 
 ---
 
@@ -136,15 +144,6 @@ TheMealDB (no API key required)
 - /lookup.php?i=
 - /categories.php
 - /filter.php?c=
-
----
-
-## ⚠️ Limitations
-
-- No authentication
-- Rate limits possible
-- Random endpoint = 1 item per call
-- No ingredient filtering
 
 ---
 
