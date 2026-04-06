@@ -1,4 +1,6 @@
-# 🍳 Recipe Explorer — B9IS126 — Web and Mobile Technologies
+<img width="777" height="279" alt="image" src="https://github.com/user-attachments/assets/5c9537fd-9fef-4d77-a850-b4c74d8dabec" />
+
+# Recipe Explorer — B9IS126 — Web and Mobile Technologies
 ### Dublin Business School - April 2026
 
 ## 📌 Project Overview
@@ -103,6 +105,25 @@ recipe-explorer/
 - Settings with user preferences
 - Change mode (Dark or Light)
 - Loading + error handling
+
+---
+
+##  Screens
+
+### Light Mode
+
+![Screenshot_2026-04-06-16-01-40-579_host exp exponent](https://github.com/user-attachments/assets/162f691f-a7a6-4be2-b556-5f9b661808bc)
+![Screenshot_2026-04-06-16-02-19-027_host exp exponent](https://github.com/user-attachments/assets/24d8d14a-2ce8-4038-a761-529fe21c7008)
+![Screenshot_2026-04-06-16-02-04-527_host exp exponent](https://github.com/user-attachments/assets/aec5674a-91e8-4fce-871c-bd43ef175dcf)
+![Screenshot_2026-04-06-16-02-01-441_host exp exponent](https://github.com/user-attachments/assets/0df29cb0-0a5a-4ff5-a988-1101cc9ef167)
+
+### Dark Mode
+
+![Screenshot_2026-04-06-16-02-34-567_host exp exponent](https://github.com/user-attachments/assets/d6b99bda-0008-41ec-89c7-67f701b0ddda)
+![Screenshot_2026-04-06-16-02-29-628_host exp exponent](https://github.com/user-attachments/assets/93e4388f-c851-4539-9264-d70bb888ae0f)
+![Screenshot_2026-04-06-16-02-26-819_host exp exponent](https://github.com/user-attachments/assets/d08c8d65-a9b2-43d0-8652-b0c48331bbca)
+
+
 
 ---
 
