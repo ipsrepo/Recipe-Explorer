@@ -96,6 +96,7 @@ recipe-explorer/
     │   └── RecipeCard.js           # Reusable recipe card (thumbnail and info)
     ├── context/
     │   └── FavouritesContext.js    # Global favourites state + AsyncStorage
+    |   └── ThemeContext.js         # Global Dark or light mode state
     └── services/
         └── api.js                  # All TheMealDB API calls (axios)
 
