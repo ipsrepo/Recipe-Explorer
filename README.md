@@ -47,7 +47,7 @@
 
 1. Extract and navigate:
 ```
-   unzip recipe-explorer.zip  
+   unzip project_recipe-explorer.zip  
    cd recipe-explorer
 ```
 
