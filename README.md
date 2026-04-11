@@ -48,7 +48,7 @@
 1. Extract and navigate:
 ```
    unzip project_recipe-explorer.zip  
-   cd recipe-explorer
+   cd recipe-explorer 
 ```
 
 2. Install:
